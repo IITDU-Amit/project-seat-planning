@@ -1,1 +1,1 @@
-<h4>Pictures for Different Sections will be here for ease of use</h4>
+<h4>Pictures of different Sections will be here for ease of use</h4>
