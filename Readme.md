@@ -1,3 +1,3 @@
-#Project - Seat Planning System
+<center>#Project - Seat Planning System</center>
 
-##Members->
+Team Members->
