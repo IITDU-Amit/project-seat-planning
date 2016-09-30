@@ -1,4 +1,4 @@
-#Project - *Seat Planning System*
+<div>#Project - *Seat Planning System*<div>
 
 ###Team Members
 
