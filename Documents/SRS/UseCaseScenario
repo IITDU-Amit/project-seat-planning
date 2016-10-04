@@ -1,4 +1,4 @@
-Seat Planning System
+##Seat Planning System
 
 The Seat Planning System (SPS) is proposed by Institute of Information Technology (IIT), University of Dhaka (DU). 
 SPS is a web based software application that will be used to automate the existing manual seat planning system.
@@ -9,7 +9,7 @@ Seat plan will have the exam roll and room number mentioned in it. SPS ensure th
 Our system will provide printable document of generated seat planning.
 
 
-Questions:
+##Questions:
 1. Will there be any system admin who will manage the system or just authentication and use by anyone?
 2. Exam committee members needs to log in?  Or it needs to be universal so that anyone can access?
 3. Input or file like csv/excel?
