@@ -15,3 +15,4 @@ Our system will provide printable document of generated seat planning.
 4. Send email to students so that they know their positions? (*nearby seated students may prepare themselves accordingly *)
 5. Is the allocation of seat random or any algorithm will be implemented?
 6. If multiple batches are assigned in a room for seat allocation, how it will be managed?
+7. How will the teachers be notified about their exam duty? by email or manually ??
