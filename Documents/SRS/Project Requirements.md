@@ -14,11 +14,11 @@ It will be web based so that both department and institutes can take advantage o
 Security should be maintained properly, so that there is no modification due to penetration. 
 
 #Expected Requirements:
-Roll arrangement for different semester students:
+###Roll arrangement for different semester students:
 How rolls will  be arranged in case of different semester students of a department or institute is placed in the same room.
 ###SMS: 
 Sending sms to both teacher and students about details of exam and their room or seat position.
 #Exciting Requirements:
 
-3d view:
+###3d view:
 3d view of classroom and seat position mentioned will be considered an excellent feature of the system.
