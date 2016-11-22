@@ -1,1 +1,1 @@
-<h4>Pictures of different Sections will be here for ease of use</h4>
+<h4>Pictures will be updated on 24 th november.</h4>
