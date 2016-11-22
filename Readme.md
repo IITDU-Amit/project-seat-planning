@@ -15,6 +15,6 @@ Group Members | Contribution
 ------------ | -------------
 Nasimuzzaman Himel | Taking Excel File input and updating file inputs in database
 Ali Zafar Sadiq | Creating Randomized seat plan
-ASM Khairul Alam | Sending Email to any email address
+ASM Khairul Alam | Sending Email to any email address and registration through email
 Naushad Hossain | Form validations
 Sajidul Islam | Converting Html to pdf
